@@ -5,7 +5,7 @@ Contiene una estructura en HTML y un diseño en CSS colaborativo.
 
 ## Grupo
 - Bernat (HTML)
-- Oriol (CSS)
+- Bernat2 (CSS)
 
 ## Fecha
 02 de junio de 2025
@@ -17,4 +17,3 @@ Desarrollo Web
 - [x] Estructura HTML de la página
 - [x] Diseño en CSS
 - [ ] Revisión y merge final
-
