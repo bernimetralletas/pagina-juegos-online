@@ -5,7 +5,7 @@ Contiene una estructura en HTML y un diseño en CSS colaborativo.
 
 ## Grupo
 - Bernat (HTML)
-- Oriol (CSS)
+- Bernat2 (CSS)
 
 ## Fecha
 02 de junio de 2025
